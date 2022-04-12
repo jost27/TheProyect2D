@@ -5,7 +5,7 @@
 
 ## Links
 
-- [Repo](https://github.com/jost27 "<JOst27 projects> Repo")
+- [Repo](https://github.com/jost27/TheProyect2D/tree/main/ElProyecto "<JOst27 projects> Repo")
 
 
 
