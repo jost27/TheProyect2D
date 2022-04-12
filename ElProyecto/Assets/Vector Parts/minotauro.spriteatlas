@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: minotauro
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 256
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 36b4666dd80582f419cd738c1ec36468, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3855ef705a857ed45b643ac28e37c5b5, type: 3}
+  - {fileID: 21300000, guid: 4c23f8b0c8ae2fe45a0db2105e3624ba, type: 3}
+  - {fileID: 21300000, guid: 9b3666f22fc01e247862683c75d0f8f1, type: 3}
+  - {fileID: 21300000, guid: 7da75835c52cdfe449873865e9eb55a3, type: 3}
+  - {fileID: 21300000, guid: c99ad5667dfa7294e94034864b5e2a9d, type: 3}
+  - {fileID: 21300000, guid: 56159fa6011ce92478411ff7ac53801f, type: 3}
+  - {fileID: 21300000, guid: 2b77be58c5bdb83408b279e4bd2f6869, type: 3}
+  - {fileID: 21300000, guid: 2d05a21b90020b942b6a31bbe4902d9f, type: 3}
+  - {fileID: 21300000, guid: 908ac6db99dafbc4a9c7f42bcc8ce5d8, type: 3}
+  - {fileID: 21300000, guid: d6ed8dfc4ae722b47a707393d68e2b27, type: 3}
+  - {fileID: 21300000, guid: 20bcf12d1b72e164991c31ba673ef5cc, type: 3}
+  - {fileID: 21300000, guid: d383895e342854c4896f9ee3a87ced1c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Face 03
+  - Face 02
+  - Body
+  - Head
+  - Weapon
+  - Left Arm
+  - Right Leg
+  - Left Hand
+  - Left Leg
+  - Right Arm
+  - Face 01
+  - Right Hand
+  m_RenderDataMap: {}
+  m_Tag: minotauro
+  m_IsVariant: 0
